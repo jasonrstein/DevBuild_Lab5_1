@@ -1,0 +1,13 @@
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\bin\Debug\netcoreapp3.1\DevBuildLab5_1.exe
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\bin\Debug\netcoreapp3.1\DevBuildLab5_1.deps.json
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\bin\Debug\netcoreapp3.1\DevBuildLab5_1.runtimeconfig.json
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\bin\Debug\netcoreapp3.1\DevBuildLab5_1.runtimeconfig.dev.json
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\bin\Debug\netcoreapp3.1\DevBuildLab5_1.dll
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\bin\Debug\netcoreapp3.1\DevBuildLab5_1.pdb
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\obj\Debug\netcoreapp3.1\DevBuildLab5_1.csprojAssemblyReference.cache
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\obj\Debug\netcoreapp3.1\DevBuildLab5_1.AssemblyInfoInputs.cache
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\obj\Debug\netcoreapp3.1\DevBuildLab5_1.AssemblyInfo.cs
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\obj\Debug\netcoreapp3.1\DevBuildLab5_1.csproj.CoreCompileInputs.cache
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\obj\Debug\netcoreapp3.1\DevBuildLab5_1.dll
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\obj\Debug\netcoreapp3.1\DevBuildLab5_1.pdb
+C:\Workgroup\DevBuildLab5_1\DevBuildLab5_1\obj\Debug\netcoreapp3.1\DevBuildLab5_1.genruntimeconfig.cache
